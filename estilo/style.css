@@ -134,7 +134,7 @@ header > h1 {
 }
 
 header > p {
-    color: black;
+    color: pink;
     font-family: var(--fonte-padrao);
     max-width: 500px;
     margin: auto;
